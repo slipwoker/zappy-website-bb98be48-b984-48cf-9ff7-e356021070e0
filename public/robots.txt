@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://courtniecaseready-bb98be48.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

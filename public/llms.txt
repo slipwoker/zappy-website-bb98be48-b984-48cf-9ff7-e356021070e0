@@ -1,57 +1,47 @@
-# CourtnieCaseReady — Generative Engine Optimization Map
-
-> CourtnieCaseReady is a premium legal evidence organizer with a luxury dark futuristic aesthetic featuring glowing electric blue accents and sophisticated data visualization. The platform embodies a high-tech, professional atmosphere with pulsing timeline nodes, glowing stat cards, and a sleek dark interface that conveys security and confidentiality. The design language emphasizes precision, organization, and cutting-edge legal technology with color-coded importance levels and intuitive navigation.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://courtniecaseready-bb98be48.zappy5.app
+https://example.com
 CourtnieCaseReady is the progressive web application transforming how attorneys manage case evidence. Sleek, secure, and powerful—streamline your litigation workflow today.
 
 ### Product
-https://courtniecaseready-bb98be48.zappy5.app/product
+https://example.com/product
 Discover our web application development excellence: color-coded evidence tracking, glowing timeline visualization, and intuitive data organization built for legal professionals.
 
 ### Security
-https://courtniecaseready-bb98be48.zappy5.app/security
+https://example.com/security
 Your confidential case files deserve maximum protection. Our chrome web store apps deliver enterprise-level encryption and compliance for attorney-client privilege.
 
 ### Contact
-https://courtniecaseready-bb98be48.zappy5.app/contact
+https://example.com/contact
 Ready to revolutionize your evidence organization? Connect with our team to explore how our progressive web application elevates your legal practice efficiency.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://courtniecaseready-bb98be48.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://courtniecaseready-bb98be48.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://courtniecaseready-bb98be48.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About CourtnieCaseReady
-CourtnieCaseReady is a premium legal evidence organizer with a luxury dark futuristic aesthetic featuring glowing electric blue accents and sophisticated data visualization. The platform embodies a high-tech, professional atmosphere with pulsing timeline nodes, glowing stat cards, and a sleek dark interface that conveys security and confidentiality. The design language emphasizes precision, organization, and cutting-edge legal technology with color-coded importance levels and intuitive navigation.
-
-## Target Audience
-legal professionals, attorneys, court case managers
-
-## Industry
-legal technology
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://courtniecaseready-bb98be48.zappy5.app/sitemap.xml
-- **Robots.txt**: https://courtniecaseready-bb98be48.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
